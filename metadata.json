@@ -1,0 +1,7 @@
+{
+  "name": "Emerald Shop",
+  "description": "Handcrafted Lifestyle & Daily Essentials in Bangladesh with direct WhatsApp ordering and Store Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
